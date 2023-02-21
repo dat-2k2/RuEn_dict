@@ -1,5 +1,5 @@
 # Russian - English Dictionary 
-some automatic russian-task creator
+some auto ru-en exercise generators. 
 
 This Colab notebook includes:
   - The task of writing respective word in English/ по-Русский
